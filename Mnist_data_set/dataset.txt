@@ -1,0 +1,1 @@
+Dans ce repertoire on trouve les deux ensembles (de teste et d'entrainement) a partir de les quelles, on a extrait notre base de donnes
