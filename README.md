@@ -1,2 +1,2 @@
 # Classification-des-chiffres-ecrit-a-la-main
-This repository contains a group project, that consists of a classification model for hand written images, the model uses the HOG image descriptor along with KNN, the model was created using Python
+Ce depot contient un projet de groupe, il consiste d'un modele de classification des images des chiffres ecrit a la main, Ce modele utilise le descripteur d'images HOG et l'algorithme KNN, il est cree en Python
