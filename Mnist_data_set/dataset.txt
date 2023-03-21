@@ -1,1 +1,2 @@
-Dans ce repertoire on trouve les deux ensembles (de teste et d'entrainement) a partir de les quelles, on a extrait notre base de donnes
+Dans ce repertoire on trouve les deux ensembles (de teste et d'entrainement) a partir de les quelles, on a extrait notre base de donnes.
+Veuillez utiliser le lien suivant pour telecharger la base de donnees Mnist : https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/download?datasetVersionNumber=2
